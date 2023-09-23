@@ -77,14 +77,21 @@ function App() {
 			</div>
 			<footer>
 				<p className='attribution'>
-					Challenge by{'Cyber-Raff '}
+					Challenge by{' '}
 					<a
 						href='https://www.frontendmentor.io?ref=challenge'
 						target='_blank'
 						rel='noreferrer'>
 						Frontend Mentor
 					</a>
-					. Coded by <a href='#'>Your Name Here</a>.
+					. Coded by{' '}
+					<a
+						href='https://twitter.com/CyberRaff_'
+						target='_blank'
+						rel='noreferrer'>
+						Cyber Raff
+					</a>
+					.
 				</p>
 			</footer>
 		</>
